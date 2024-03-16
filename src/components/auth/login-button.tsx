@@ -25,5 +25,3 @@ export const LoginButton = ({ children, mode, asChild }: LoginButtonProps) => {
 		</span>
 	);
 };
-
-export default LoginButton;
